@@ -160,4 +160,11 @@ body {
   text-decoration: line-through;
 }
 
+
+@media screen and (max-width: 768px){
+  .app{
+    width: 100%;
+  }
+}
+
 /*# sourceMappingURL=style.css.map */
