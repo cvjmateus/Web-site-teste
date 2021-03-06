@@ -1,5 +1,7 @@
 body {
   margin: 0;
+  background-image: url('./índice.jpeg');
+  background-repeat: no-repeat;
 }
 
 .app {
@@ -81,7 +83,6 @@ body {
   font-size: 1.5rem;
   font-family: "BioRhyme", serif;
   color: #F6F1D1;
-  text-align: center;
 }
 
 .form {
@@ -158,13 +159,6 @@ body {
 
 .task.done .content {
   text-decoration: line-through;
-}
-
-
-@media screen and (max-width: 768px){
-  .app{
-    width: 100%;
-  }
 }
 
 /*# sourceMappingURL=style.css.map */
